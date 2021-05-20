@@ -1,0 +1,9 @@
+*~
+*.bak
+*.old
+*.zip
+*.tar.xz
+*.orig
+*.diff
+*.valid
+things
